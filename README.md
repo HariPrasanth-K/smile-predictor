@@ -27,5 +27,6 @@ A simple and smart AI-powered app that detects whether you're smiling in a photo
 
 ---
 
-## 📂 Project Structure
+## 😄Smile Please
+Let your smile change the world ❤️
 
